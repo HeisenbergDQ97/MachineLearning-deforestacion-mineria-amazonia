@@ -49,7 +49,7 @@ Métricas del Modelo
 - Deforestación no minera: 94.7% de precisión
 
 ## Hallazgos Cuantitativos
-**Área total de minería detectada en Putumayo: 948.37 hectáreas
-**Distribución por cuencas hidrográficas: 12 cuencas analizadas
-**Degradación de cuerpos de agua (NDWI): Valores promedio de -0.334 en zonas mineras vs valores positivos en bosque conservado
+- Área total de minería detectada en Putumayo: 948.37 hectáreas
+- Distribución por cuencas hidrográficas: 12 cuencas analizadas
+- Degradación de cuerpos de agua (NDWI): Valores promedio de -0.334 en zonas mineras vs valores positivos en bosque conservado
 
