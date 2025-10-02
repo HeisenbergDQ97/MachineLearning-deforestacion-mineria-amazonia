@@ -30,23 +30,23 @@ El proyecto sigue un flujo de trabajo de cinco fases: 1. Adquisición de datos, 
 
 ## 🛠️ Tecnologías Utilizadas
 Plataformas y Herramientas:
-**https://img.shields.io/badge/Google%2520Earth%2520Engine-Platform-blue
-**https://img.shields.io/badge/QGIS-Spatial%2520Analysis-green
-**https://img.shields.io/badge/GitHub-Repository%2520Hosting-black
+- https://img.shields.io/badge/Google%2520Earth%2520Engine-Platform-blue
+- https://img.shields.io/badge/QGIS-Spatial%2520Analysis-green
+- https://img.shields.io/badge/GitHub-Repository%2520Hosting-black
 
 Lenguajes y Librerías:
-**https://img.shields.io/badge/JavaScript-GEE%2520API-yellow
-**https://img.shields.io/badge/Python-scikit--learn%252FTensorFlow-blue
-**https://img.shields.io/badge/Random%2520Forest-Classifier-orange
+- https://img.shields.io/badge/JavaScript-GEE%2520API-yellow
+- https://img.shields.io/badge/Python-scikit--learn%252FTensorFlow-blue
+- https://img.shields.io/badge/Random%2520Forest-Classifier-orange
 
 ## Resultados Destacados
 Métricas del Modelo
-**Precisión General: 91.7% 
-**Matriz de Confusión (4x4):
-**Bosque: 100% de precisión
-**Minería: 80% de precisión
-**Ciudades: 93.7% de precisión
-**Deforestación no minera: 94.7% de precisión
+- Precisión General: 91.7% 
+- Matriz de Confusión (4x4):
+- Bosque: 100% de precisión
+- Minería: 80% de precisión
+- Ciudades: 93.7% de precisión
+- Deforestación no minera: 94.7% de precisión
 
 ## Hallazgos Cuantitativos
 **Área total de minería detectada en Putumayo: 948.37 hectáreas
